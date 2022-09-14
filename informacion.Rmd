@@ -1,0 +1,30 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<style>
+body {
+text-align: justify}
+
+body{ /* Normal  */
+      font-size: 12pt;
+  }
+</style>
+-***Mercado laboral*** <br><br>
+-***Mercado laboral y jóvenes*** <br><br>
+-***Mercado laboral y género*** <br><br>
+-***Determinantes de la innovación*** <br><br>
+-***Desempeño empresarial*** <br><br>
+-***Mujeres y empresa*** <br><br>
+-***Educación*** <br><br>
+-***Análisis de datos*** <br><br>
+-***Programación*** <br><br>
+
+
+
+
