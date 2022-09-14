@@ -1,0 +1,22 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<style>
+body {
+text-align: justify}
+
+body{ /* Normal  */
+      font-size: 12pt;
+  }
+</style>
+[***2022***] <br><br>
+Danilo Rodriguez<br>
+Valentina Zapata
+
+

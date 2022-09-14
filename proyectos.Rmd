@@ -1,0 +1,40 @@
+---
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<style>
+body {
+text-align: justify}
+
+body{ /* Normal  */
+      font-size: 12pt;
+  }
+</style>
+[***Los determinantes de ser NINI en Colombia: diferencias por género***](https://publicaciones.unaula.edu.co/index.php/semilla/article/view/1096) <br><br>Por: 
+<br> Jaqueline Acevedo Giraldo <br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br>Karol Dayanna Rodríguez Buitrago<br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br>*Resumen:*
+En este artículo se analizan las principales características de los jóvenes NINIS en Colombia, es decir, aquellos que tienen entre 15 y 24 años, no estudian, ni trabajan, ni se capacitan. Se estiman modelos probit con el fin de encontrar los determinantes que afectan la probabilidad de que un joven se convierta en NINI y se realiza el análisis con énfasis en las diferencias por género, utilizando la Gran Encuesta Integrada de Hogares (GEIH) del año 2019. Las diferencias por género son evaluadas estimando regresiones para hombres y mujeres por separado, en donde se muestran patrones diferentes. Adicionalmente, se hace una breve descripción del impacto que ha tenido el COVID-19 en la condición de los NINIS, comparando el trimestre mayo-julio del 2019 y el mismo periodo en 2020.
+<br><br>
+
+[***Desigualdad de ingresos en los países de la OCDE y su relación con la actividad de innovación entre los años 2000-2017***](https://publicaciones.unaula.edu.co/index.php/semilla/article/view/1089) <br><br>Por: 
+<br> Lorena Andrea Delgado Álvarez <br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br>Juan Pablo David Lozano<br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br> Jeferson Daniel Gallego Agudelo <br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br>Mariana Lopera Suárez<br>
+Universidad Autónoma Latinoamericana -UNAULA<br>
+<br>*Resumen:*
+Este artículo tiene como objetivo analizar la relación entre innovación y desigualdad de ingresos, haciendo uso de la metodología panel por efectos aleatorios para los países de la OCDE en el periodo de 2000 a 2017. Los países fueron clasificados por bloques según su ubicación geográfica. Para el trabajo se toma el total de solicitudes de patentes y la I+D como medidas de innovación y el coeficiente de Gini para cuantificar la desigualdad de ingresos, y con ello examinar desde una perspectiva teórica y empírica con la metodología, porque, permite identificar la existencia de un efecto fijo de la capacidad innovadora sobre la desigualdad en ingresos, controlado por las características propias de los países miembros de la OCDE. Los resultados indican que existe una relación negativa entre la innovación y la desigualdad de ingresos. Las recomendaciones de política giran en torno a tener en cuenta las características propias de cada país, para garantizar un efecto distributivo más equitativo de las rentas obtenidas por los procesos de innovación para toda la población, y de dicha manera no afectar su productividad.
+<br><br>
+
+
