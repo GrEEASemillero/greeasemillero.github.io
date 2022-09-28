@@ -9,7 +9,8 @@ navbar:
       href: proyectos.html
     - text: "Integrantes"
       href: integrantes.html
-
+    - text: "Eventos"
+      href: eventos.html
 
 output:
  html_document:
